@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0G/HOAJZN9E4DDI6Y1W3JU13K.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/2J/AQ1PWWT9TBAI7AA470T014.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6I/RU1L28PS820IOVH625A0DA.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IO/07IVU4EY14FMETPGTJULEO.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IS/9UYCK5DOCZ4FNC0Z9AAOLE.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/T7/YJUOMUOTK88GFYJAJKZXD3.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/D0/8XALKPSQ9LHDV1K2TWBQTW.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LG/JGKWHMB1K2J5FPBY7O9AN7.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HF/YFYBQ72OYLHJQS0TSSXGBV.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/CM/RQBWEWZL079A728DPA5PK5.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/JQ/824YIXV3HORS2KH805JX80.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0Y/BCAUK30L25Y63HV3KJ4XNG.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HS/EY28HNOGRTRJN5KQVG60ZI.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/EX/OP24AK1EOB1OMYEA3X2VFZ.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DM/6X8HHVYQGV5DRG8FILTQNH.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/I0/7OJVIXUZKD93WSOL67MO2J.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/6N/ZIOK51QF6MUBBVOKSD00H9.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G0/FNCYX8BG0TJE4U6WO1458O.uasset",
+				"C:/Users/HP VICTUS CORE i5/Documents/Unreal Projects/BomberMan_012025/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/KB/I6YGMCW6ZMJYPQQEZ0EWWB.uasset"
+			]
+		}
+	]
+}
